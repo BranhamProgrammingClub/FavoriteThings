@@ -17,3 +17,8 @@ oleks.printfavs(0)
 import matan
 print("Matan's Items")
 matan.printfavs()
+
+# Items for Ashish
+import ashish
+print("Ashish's Items")
+ashish.printfavs(0)
